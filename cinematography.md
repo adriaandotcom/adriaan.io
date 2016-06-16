@@ -5,8 +5,14 @@
 
 <span class="image main"><img src="/images/cinematography/header.jpg" alt="Adriaan van Rossum's filming" /></span>
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+With Simon &amp; Ties I [make films](https://www.youtube.com/channel/UCux4JdtbtRJGX4Qcejo9ODA) in the time we have left in our lives.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
+<div class="box alt">
+  <div class="row uniform">
+    <div class="4u"><span class="image fit"><a href="https://www.youtube.com/watch?v=wbNvyiOzuo4"><img src="/images/cinematography/guido-spek.png" alt="" /></a></span></div>
+    <div class="4u"><span class="image fit"><a href="https://www.youtube.com/watch?v=cLZUWkad4Pw"><img src="/images/cinematography/ijveer.png" alt="" /></a></span></div>
+    <div class="4u"><span class="image fit"><a href="https://www.youtube.com/watch?v=q2FO-7FhzWE"><img src="/images/cinematography/braggiotti.png" alt="" /></a></span></div>
+  </div>
+</div>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+[Go to our youtube channel](https://www.youtube.com/channel/UCux4JdtbtRJGX4Qcejo9ODA).

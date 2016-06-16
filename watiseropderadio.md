@@ -1,12 +1,12 @@
 ---
 ---
 
-# Wat is er op de radio
+# [Wat is er op de radio](http://watiseropderadio.nl)
 
 <span class="image main"><img src="/images/watiseropderadio/header.jpg" alt="Adriaan van Rossum's radio website" /></span>
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+The oldest project I've build is [watiseropderadio.nl](http://watiseropderadio.nl). It contains a playlist with all songs played on the biggest Dutch radio stations. Monthly, the website attracts over **40.000 visits** and has **150.000 pageviews**. I built a web crawler which crawls a lot of websites from the radio stations and pulls the current track out of their HTML-page. Recently the website also gives the visitors the opportunity to listen to **radio-fragments** of the last 10 days.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
+This website is build in the good old PHP days. There is a lot of airplay data because the website is online for years. We all know [this is over](https://evertpot.com/PHP-Sucks/), but rewriting the whole website takes a lot of time. You have to choose the best projects for the limited time available so I decided to keep this project for what it is.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+[Go to watiseropderadio.nl](http://watiseropderadio.nl).

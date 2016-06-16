@@ -1,12 +1,12 @@
 ---
 ---
 
-# Las Palmas de Gran Canaria
+# [Las Palmas de Gran Canaria](https://laspalmas.adriaan.io/).
 
 <span class="image main"><img src="/images/laspalmas/header.jpg" alt="Adriaan van Rossum writes on a laptop" /></span>
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+Here are some tips you probably can use when visiting or moving to Las Palmas. There are a lot reasons to go to this nice Island, like the temperature, distance to the Netherlands, the nice beaches, your great friend is living there, you want to see the mountains or you just want to escape your current environment.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
+Las Palmas is the largest city of the EU lying outside the European Continent. It is located in the northeast part of the Spanish island of Gran Canaria, about 150 kilometres off the northwestern coast of Africa within the Atlantic Ocean. See this map to get an idea.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+You can read [the blog here](https://laspalmas.adriaan.io/).

@@ -126,7 +126,7 @@
     <a href="cinematography.html">
       <h2>Cinematography</h2>
       <div class="content">
-        <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+        <p>Together with Simon and Ties we create films of events or clips for music.</p>
       </div>
     </a>
   </article>
