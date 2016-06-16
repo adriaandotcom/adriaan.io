@@ -6,6 +6,8 @@ author:
 permalink: '/:title'
 timezone: 'Europe/Amsterdam'
 locale: 'en'
+sass:
+  sass_dir: assets/sass
 
 defaults:
   -

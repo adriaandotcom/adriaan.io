@@ -1,12 +1,15 @@
 <!DOCTYPE HTML>
+<!--
+  Phantom by HTML5 UP
+  html5up.net | @ajlkn
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
   <head>
     <title>Adriaan van Rossum</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
     <meta charset="utf-8" />
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/style/app.css?time={{ site.time | date_to_xmlschema | slugify }}">
-    <link rel="icon" type="image/png" href="/images/blue-sun.png">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
     <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
     <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
@@ -14,35 +17,94 @@
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:site_name" content="{{ site.name }}">
     <meta property="og:locale" content="{{ site.locale }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
   </head>
   <body>
-    <header>
-      <h1><a href="/">Adriaan van Rossum</a></h1>
+    <!-- Wrapper -->
+    <div id="wrapper">
 
-      <nav>
+      <!-- Header -->
+      <header id="header">
+        <div class="inner">
+
+          <!-- Logo -->
+          <a href="/" class="logo">
+            <span class="symbol"><img src="/images/logo.svg" alt="" /></span><span class="title">Adriaan</span>
+          </a>
+
+          <!-- Nav -->
+          <nav>
+            <ul>
+              <li><a href="#menu">Menu</a></li>
+            </ul>
+          </nav>
+
+        </div>
+      </header>
+
+      <!-- Menu -->
+      <nav id="menu">
+        <h2>Menu</h2>
         <ul>
-          <li>
-            <a href="/contact">Contact me</a>
-          </li>
+          <li><a href="/">Home</a></li>
+          <li><a href="https://github.com/harianus/adriaan.io/edit/gh-pages/{{ page.path }}">Improve my grammar on GitHub</a></li>
         </ul>
       </nav>
-    </header>
 
-    <a class="ribbon" target="_blank" href="https://github.com/harianus/adriaan.io/edit/gh-pages/{{ page.path }}">
-      Improve my grammar on GitHub
-    </a>
+      <!-- Main -->
+      <div id="main">
+        <div class="inner">
+          {{ content }}
+        </div>
+      </div>
 
-    <main>
-      {{ content }}
-    </main>
+      <!-- Footer -->
+      <footer id="footer">
+        <div class="inner">
+          <section>
+            <h2>Send me a message</h2>
+            <form method="post" action="#">
+              <div class="field half first">
+                <input type="text" name="name" id="name" placeholder="Name" />
+              </div>
+              <div class="field half">
+                <input type="email" name="email" id="email" placeholder="Email" />
+              </div>
+              <div class="field">
+                <textarea name="message" id="message" placeholder="Message"></textarea>
+              </div>
+              <ul class="actions">
+                <li><input type="submit" value="Push it through the wire" class="special" /></li>
+              </ul>
+            </form>
+          </section>
+          <section>
+            <h2>Profiles &amp; contact</h2>
+            <ul class="icons">
+              <li><a href="https://twitter.com/harianus" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+              <li><a href="https://www.facebook.com/adriaanvrossum" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+              <li><a href="https://github.com/harianus/" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+              <li><a href="tel:+43691732474" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
+              <li><a href="mailto:website@adriaan.io?subject=I%20want%20to%20say%20hello!&amp;body=Hi%20Adriaan%2C%0A%0AI%20got%20this%20email%20address%20from%20you%20website%20https%3A%2F%2Fadriaan.io.%0A%0AI%20want%20to%20contact%20you%20because%20..." class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+            </ul>
+          </section>
+          <ul class="copyright">
+            <li>&copy; Adriaan van Rossum. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+          </ul>
+        </div>
+      </footer>
+    </div>
 
-    <footer>
-      <ul>
-        <li>
-          <a href="/contact">Contact me</a>
-        </li>
-      </ul>
-    </footer>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -53,7 +115,5 @@
       // ga('create', 'UA-243569-40', 'auto');
       ga('send', 'pageview');
     </script>
-
-    <script type="text/javascript" src="/js/app.js?time={{ site.time | date_to_xmlschema | slugify }}"></script>
   </body>
 </html>
