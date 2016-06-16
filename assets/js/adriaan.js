@@ -13,10 +13,10 @@ if (form) {
     var message = form.querySelector('textarea[name="message"]')
 
     var subject = encodeURIComponent('Message from ' + name.value);
-    var message = encodeURIComponent('Email address: ' + email.value + '\n\n' + message.value);
+    var body = encodeURIComponent('Email address: ' + email.value + "\n\n" + message.value);
 
     // Send newsletter email to myself
-    var url = 'https://screenmessage.com/blog/mail.php?subject=' + subject + '&message=' + message;
+    var url = 'https://screenmessage.com/blog/mail.php?subject=' + subject + '&message=' + body;
     var request = new XMLHttpRequest();
     request.open('GET', url, true);
     request.send();
