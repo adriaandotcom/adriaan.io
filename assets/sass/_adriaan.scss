@@ -1,0 +1,33 @@
+#footer {
+  background-image: url("/images/adriaan-van-rossum-silhouette.png");
+  background-repeat: no-repeat;
+  background-size: 660px;
+  background-position: right 20% bottom -280px;
+
+  @media (max-width: 1680px) {
+    background-size: 660px;
+    background-position: right -40px bottom -280px;
+  }
+
+  @media (max-width: 1280px) {
+    background-size: 580px;
+    background-position: right -60px bottom -350px;
+  }
+
+  @media (max-width: 980px) {
+    background-size: 480px;
+    background-position: right -60px bottom -260px;
+  }
+
+  @media (max-width: 736px) {
+    padding-bottom: 200px;
+    background-size: 380px;
+    background-position: right -30px bottom -190px;
+  }
+
+  @media (max-width: 480px) {
+    padding-bottom: 200px;
+    background-size: 380px;
+    background-position: right -30px bottom -190px;
+  }
+}
