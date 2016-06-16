@@ -12,7 +12,7 @@
     <span class="image">
       <img src="/images/freelancer/thumbnail.jpg" alt="" />
     </span>
-    <a href="generic.html">
+    <a href="freelancer.html">
       <h2>Freelancer</h2>
       <div class="content">
         <p>You want to use my skills for you project? You came to the right place.</p>
