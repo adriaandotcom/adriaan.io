@@ -6,6 +6,7 @@ author:
 permalink: '/:title'
 timezone: 'Europe/Amsterdam'
 locale: 'en'
+logo: '/images/adriaan-van-rossum-silhouette.png'
 sass:
   sass_dir: assets/sass
 
