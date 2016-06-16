@@ -1,0 +1,19 @@
+title: "Adriaan's projects"
+name: "Adriaan's projects"
+description: 'Adriaan does a lot of things, find out what!'
+author:
+  name: 'Adriaan van Rossum'
+permalink: '/:title'
+timezone: 'Europe/Amsterdam'
+locale: 'en'
+
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'base'
+      type: 'pages'
+
+gems:
+  - jemoji
