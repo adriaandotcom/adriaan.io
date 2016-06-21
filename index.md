@@ -12,7 +12,7 @@
     <span class="image">
       <img src="/images/freelancer/thumbnail.jpg" alt="" />
     </span>
-    <a href="agency.html">
+    <a href="las-palmas-agency.html">
       <h2>Las Palmas Agency</h2>
       <div class="content">
         <p>You want to use our skills for your project? You came to the right place.</p>
