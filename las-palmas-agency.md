@@ -3,7 +3,7 @@
 
 # Las Palmas Agency
 
-<span class="image main"><img src="/images/freelancer/header.jpg" alt="Adriaan van Rossum also has an agency" /></span>
+<span class="image main"><img src="/images/las-palmas-agency/header.jpg" alt="Adriaan van Rossum also has an agency" /></span>
 
 One way to define agency is the abstract principle that autonomous beings, agents, are capable of acting by themselves. The agents of the Las Palmas Agency are very autonomous, which means we are able to **solve complex puzzles** without needing any programming knowledge from our customers. You just explain the challenge you experiance in your business and we can build the tools you will need.
 
