@@ -3,6 +3,8 @@
 
 # Pick a time for a call
 
+Use this widget or <a href="https://calendly.com/adriaanvanrossum/call">open in a new tab</a>.
+
 <div style="overflow-y: hidden;">
   <div style="margin-top: -140px;">
     <div class="calendly-inline-widget" data-url="https://calendly.com/adriaanvanrossum/call" style="min-width:340px;height:600px;">
