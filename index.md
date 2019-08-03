@@ -44,7 +44,7 @@
     </a>
   </article>
   -->
-  <article class="style5">
+  <article class="style3">
     <span class="image">
       <img src="/images/technology-blog/thumbnail.jpg" alt="Adriaan van Rossum writes on a laptop" />
     </span>
@@ -55,7 +55,7 @@
       </div>
     </a>
   </article>
-  <article class="style3">
+  <article class="style4">
     <span class="image">
       <img src="/images/screenmessage/thumbnail.jpg" alt="Adriaan van Rossum writes a non-screenmessage note" />
     </span>
