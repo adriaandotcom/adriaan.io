@@ -30,6 +30,7 @@
       </div>
     </a>
   </article>
+  <!--
   <article class="style4">
     <span class="image">
       <img src="/images/laspalmas/thumbnail.jpg" alt="Adriaan van Rossum on the mountains in Gran Canaria" />
@@ -42,6 +43,7 @@
       </div>
     </a>
   </article>
+  -->
   <article class="style5">
     <span class="image">
       <img src="/images/technology-blog/thumbnail.jpg" alt="Adriaan van Rossum writes on a laptop" />
@@ -65,5 +67,3 @@
     </a>
   </article>
 </section>
-
-
