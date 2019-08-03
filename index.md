@@ -10,7 +10,7 @@
 <section class="tiles">
   <article class="style1">
     <span class="image">
-      <img src="/images/simpleanalytics/thumbnail.jpg" alt="" />
+      <img src="/images/simpleanalytics/thumbnail.jpg?" alt="" />
     </span>
     <a href="simpleanalytics.html">
       <h2>Simple Analytics</h2>
