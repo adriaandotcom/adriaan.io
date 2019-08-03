@@ -10,12 +10,12 @@
 <section class="tiles">
   <article class="style1">
     <span class="image">
-      <img src="/images/freelancer/thumbnail.jpg" alt="" />
+      <img src="/images/simpleanalytics/thumbnail.jpg" alt="" />
     </span>
-    <a href="las-palmas-agency.html">
-      <h2>Las Palmas Agency</h2>
+    <a href="simpleanalytics.html">
+      <h2>Simple Analytics</h2>
       <div class="content">
-        <p>You want to use our skills for your project? You came to the right place.</p>
+        <p>Privacy friendly analytics</p>
       </div>
     </a>
   </article>
@@ -27,17 +27,6 @@
       <h2>What is on the radio?</h2>
       <div class="content">
         <p>Here almost every airplay data from the Dutch radiostations are collected and presented.</p>
-      </div>
-    </a>
-  </article>
-  <article class="style3">
-    <span class="image">
-      <img src="/images/packetswap/thumbnail.jpg" alt="Adriaan van Rossum building PacketSwap" />
-    </span>
-    <a href="packetswap.html">
-      <h2>PacketSwap</h2>
-      <div class="content">
-        <p>This project is not live yet, but this is the next safe online marketplace for The Netherlands.</p>
       </div>
     </a>
   </article>
@@ -64,28 +53,6 @@
       </div>
     </a>
   </article>
-  <article class="style6">
-    <span class="image">
-      <img src="/images/member-get-member-company/thumbnail.jpg" alt="Adriaan van Rossum works for Member Get Member Company" />
-    </span>
-    <a href="member-get-member-company.html">
-      <h2>MGMco</h2>
-      <div class="content">
-        <p>The company where I work with lots of joy for 3 days a week. It's called Member Get Member Company.</p>
-      </div>
-    </a>
-  </article>
-  <article class="style2">
-    <span class="image">
-      <img src="/images/eerstelinks/thumbnail.jpg" alt="Adriaan van Rossum build eerstelinks together with Christan van Ommeren" />
-    </span>
-    <a href="eerstelinks.html">
-      <h2>eerstelinks</h2>
-      <div class="content">
-        <p>Back in the days I started this company with Christian van Ommeren, a tool to build your own website.</p>
-      </div>
-    </a>
-  </article>
   <article class="style3">
     <span class="image">
       <img src="/images/screenmessage/thumbnail.jpg" alt="Adriaan van Rossum writes a non-screenmessage note" />
@@ -97,52 +64,6 @@
       </div>
     </a>
   </article>
-  <article class="style1">
-    <span class="image">
-      <img src="/images/pleasemailmeit/thumbnail.jpg" alt="The mailbox of Adriaan van Rossum" />
-    </span>
-    <a href="pleasemailmeit.html">
-      <h2>PleaseMailMe.It</h2>
-      <div class="content">
-        <p>You want to send yourself a message by email but you don't want to login on your own email account? Use this.</p>
-      </div>
-    </a>
-  </article>
-  <article class="style5">
-    <span class="image">
-      <img src="/images/demaandvanadriaan/thumbnail.jpg" alt="Some picture of Adriaan van Rossum's blog" />
-    </span>
-    <a href="demaandvanadriaan.html">
-      <h2>Blog<br>(The month of ...)</h2>
-      <div class="content">
-        <p>This is a blog in Dutch where I try to test myself for a month, once in a while.</p>
-      </div>
-    </a>
-  </article>
-  <article class="style6">
-    <span class="image">
-      <img src="/images/cinematography/thumbnail.jpg" alt="" />
-    </span>
-    <a href="cinematography.html">
-      <h2>Cinematography</h2>
-      <div class="content">
-        <p>Together with Simon and Ties we create films of events or clips for music.</p>
-      </div>
-    </a>
-  </article>
-  <!--
-  <article class="style4">
-    <span class="image">
-      <img src="/images/pic12.jpg" alt="" />
-    </span>
-    <a href="generic.html">
-      <h2>Pretium</h2>
-      <div class="content">
-        <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-      </div>
-    </a>
-  </article>
-  -->
 </section>
 
 
